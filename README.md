@@ -10,6 +10,7 @@ QRHunter is a lightweight android mobile application, where users from across th
 * To enter your API Key:
 * In local.properties, Enter the following line:
 * MAPS_API_KEY = yourgeneratedcode
+* Email aswu@ualberta.ca for a API key to run in android studio
 * Have fun with the app!
 
 ### Notable Features
