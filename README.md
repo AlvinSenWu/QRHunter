@@ -8,7 +8,9 @@ QRHunter is a lightweight android mobile application, where users from across th
 
 ### Demo
 
-![ezgif com-video-to-gif (1)](https://github.com/AlvinSenWu/QRHunter/assets/90438128/6729563c-050a-4500-b2df-99f0414bf2d5)
+![ezgif com-video-to-gif (2)](https://github.com/AlvinSenWu/QRHunter/assets/90438128/1924a754-3206-4060-bd29-6ddf544e0a87)
+
+
 
 ### Get Started
 * Our build on github will say the build will fail, and this is because you don't have an API key!
